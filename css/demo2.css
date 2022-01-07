@@ -511,3 +511,12 @@ body {
 .button:hover .button__vertical {
     transform: scaleY(0);
 }
+
+.grim__item span {
+    font-size: 20px;
+    text-shadow: 0 0 3px #ffffff, 5px 5px 5px #ffffff;
+}
+
+.grim__item h3 {
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff;
+}
