@@ -17,7 +17,7 @@
 }
 
 .content__subtitle {
-    font-size: 1.45rem;
+    font-size: 1.95rem;
     padding: 1rem 0;
     letter-spacing: 2px;
     text-indent: 2px;
@@ -518,5 +518,9 @@ body {
 }
 
 .grim__item h3 {
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff;
+}
+
+#content-1 {
     text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff;
 }
